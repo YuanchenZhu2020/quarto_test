@@ -1,0 +1,12 @@
+= Summary
+
+In summary, this book has no content whatsoever.
+
+[source,r,cell-code]
+----
+1 + 1
+----
+
+....
+[1] 2
+....

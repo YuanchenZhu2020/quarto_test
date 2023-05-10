@@ -1,0 +1,31 @@
+= quarto-test
+Norah Jones
+2023-05-10
+:toc:
+:doctype: book
+
+== Preface
+
+This is a Quarto book.
+
+To learn more about Quarto books visit https://quarto.org/docs/books.
+
+[source,r,cell-code]
+----
+1 + 1
+----
+
+....
+[1] 2
+....
+
+:leveloffset: +1
+
+include::intro.adoc[]
+
+include::summary.adoc[]
+
+include::references.adoc[]
+
+
+:leveloffset: -1

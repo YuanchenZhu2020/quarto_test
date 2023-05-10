@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "quarto-test"
+  author: "Norah Jones"
+  date: "2023/5/10"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  asciidoc: default
+
+editor: visual
+

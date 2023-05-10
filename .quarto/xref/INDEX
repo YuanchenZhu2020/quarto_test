@@ -1,0 +1,18 @@
+{
+  "index.qmd": {
+    "index.html": "554e8373",
+    "quarto-test.adoc": "6d281e13"
+  },
+  "intro.qmd": {
+    "intro.html": "ef5afdfe",
+    "intro.adoc": "726dcf1f"
+  },
+  "summary.qmd": {
+    "summary.html": "6aca4d66",
+    "summary.adoc": "af11f16a"
+  },
+  "references.qmd": {
+    "references.html": "b81056df",
+    "references.adoc": "1c2f38c2"
+  }
+}

@@ -1,0 +1,6 @@
+= References
+
+[[refs]]
+- [[knuth84]]
+  Knuth, Donald E. 1984. “Literate Programming.” _Comput. J._ 27 (2):
+  97–111. https://doi.org/10.1093/comjnl/27.2.97.
